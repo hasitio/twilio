@@ -1,9 +1,5 @@
 # NickBot
-<<<<<<< HEAD
-The original Twilio webhook that integrates with hasnicktoldhisdadjoketoday.com
-=======
 A Twilio webhook for hasit.io
->>>>>>> hasit
 
 ## Function
 
