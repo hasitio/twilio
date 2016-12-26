@@ -1,9 +1,9 @@
 # NickBot
-A Twilio webhook that integrates with hasnicktoldhisdadjoketoday.com
+A Twilio webhook for hasit.io
 
 ## Function
 
-This webhook allows users to text a Twilio phone number to easily let other users who check the site know that Nick has told his dad joke today.
+This webhook allows users to text a Twilio phone number to easily check and let other users who check the website know that know that something has happened today.
 
 Current Abilities:
 
@@ -11,13 +11,11 @@ Current Abilities:
 
 > Updates the site and checks the site to see if it has been updated.
 
->Subscription service - Will notify subscriber once per day if/when Nick has told a dad joke.
+>Subscription service - Will notify subscriber once per day if/when the site has been updated.
 
 ## Usage
 
 Please feel free to modify this for your own use. You can edit the config file and input your information there to use your own mysql database as well as Twilio account. You can also change the site to curl in the nickscript or sms files.
-
-The master branch is the original working product, feel free to check the 'hasit' branch for a newer version to be integrated with hasit.io!
 
 ## License
 
