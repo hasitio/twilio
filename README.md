@@ -15,7 +15,7 @@ Current Abilities:
 
 ## Usage
 
-Please feel free to modify this for your own use. You can edit the config file and input your information there to use your own mysql database as well as Twilio account. You can also change the site to curl in the nickscript or sms files.
+Please feel free to modify this for your own use. You can edit the config file and input your information there to use your own mysql database as well as Twilio account.
 
 ## License
 
